@@ -1,81 +1,151 @@
-# Hi there 👋, I'm Satyam
+<div align="center">
 
-> Building things, learning every day, and turning ideas into code.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Satyam
 
-## About Me
+### 💻 Full Stack Developer • 🚀 Open Source Enthusiast • 🌱 Lifelong Learner
 
-- 💻 Passionate about software development
-- 🚀 Always exploring new technologies
-- 🌱 Currently improving my skills one project at a time
-- 🤝 Open to collaboration on interesting projects
-- ☕ Coffee + Code = Productivity
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+Cool+Projects;Learning+Something+New+Every+Day;Turning+Ideas+Into+Reality" />
 
-## Tech Stack
+<br>
 
-```text
-Languages
-├── JavaScript
-├── Python
-├── Java
-└── C++
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
-Frontend
-├── HTML
-├── CSS
-├── React
-└── Tailwind CSS
-
-Backend
-├── Node.js
-├── Express
-└── REST APIs
-
-Database
-├── MongoDB
-└── MySQL
-
-Tools
-├── Git
-├── GitHub
-├── VS Code
-└── Linux
-```
-
-## Current Focus
-
-- Building practical projects
-- Writing cleaner code
-- Learning system design
-- Exploring open source
-
-## Philosophy
-
-```text
-Learn → Build → Break → Fix → Repeat
-```
-
-## GitHub Stats
-
-> Enable these by replacing `YOUR_USERNAME`.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent)
-
-## Featured Projects
-
-- 🚀 Project One — Short description
-- 💡 Project Two — Short description
-- 🔥 Project Three — Short description
-
-## Connect
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Portfolio: https://YOUR_WEBSITE.com
+</div>
 
 ---
 
-<p align="center">
-  <i>"Code with curiosity. Build with purpose."</i>
-</p>
+# 🚀 About Me
+
+```yaml
+Name: Satyam
+Location: India 🇮🇳
+Role: Full Stack Developer
+Focus:
+  - Web Development
+  - Backend Development
+  - Open Source
+Learning:
+  - System Design
+  - Cloud
+  - DevOps
+```
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build impactful projects
+- 🌐 Contribute to Open Source
+- ☁️ Learn AWS & Docker
+- 📚 Master System Design
+- 🤝 Collaborate with developers
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🚀 Project One | Awesome project description | React |
+| 💬 Project Two | Chat application | MERN |
+| 📱 Project Three | Mobile responsive app | Next.js |
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."*
+
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
+
+</div>
