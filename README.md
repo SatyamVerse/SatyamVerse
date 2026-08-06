@@ -120,7 +120,7 @@ Learning:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/satyam-phalke-389bb033a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Buj8bEIuWQnGqc5s9dAXgpA%3D%3D">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
