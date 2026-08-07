@@ -113,6 +113,7 @@ Learning:
 | 🚀 Project One | Awesome project description | React |
 | 💬 Project Two | Chat application | MERN |
 | 📱 Project Three | Mobile responsive app | Next.js |
+| 📱 Project Three | Mobile responsive app | Next.js |
 
 ---
 
