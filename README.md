@@ -97,12 +97,57 @@ Learning:
 ---
 
 # 🏆 Achievements
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="CERTIFICATE_1_IMAGE_URL" width="420" alt="Certificate 1"/>
+        <br><br>
+        <b>Certificate Name 1</b>
+        <br>
+        <sub>Issued by • 2026</sub>
+      </td>
+
+      <td align="center" width="50%">
+        <img src="CERTIFICATE_2_IMAGE_URL" width="420" alt="Certificate 2"/>
+        <br><br>
+        <b>Certificate Name 2</b>
+        <br>
+        <sub>Issued by • 2026</sub>
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center" width="50%">
+        <img src="CERTIFICATE_3_IMAGE_URL" width="420" alt="Certificate 3"/>
+        <br><br>
+        <b>Certificate Name 3</b>
+        <br>
+        <sub>Issued by • 2026</sub>
+      </td>
+
+      <td align="center" width="50%">
+        <img src="CERTIFICATE_4_IMAGE_URL" width="420" alt="Certificate 4"/>
+        <br><br>
+        <b>Certificate Name 4</b>
+        <br>
+        <sub>Issued by • 2026</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+### 🚀 Always Learning • Always Building • Always Growing
 
 </div>
+
+
 
 ---
 
