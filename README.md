@@ -97,45 +97,27 @@ Learning:
 ---
 
 # 🏆 Achievements
-<div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="CERTIFICATE_1_IMAGE_URL" width="420" alt="Certificate 1"/>
-        <br><br>
-        <b>Certificate Name 1</b>
-        <br>
-        <sub>Issued by • 2026</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="CERTIFICATE_2_IMAGE_URL" width="420" alt="Certificate 2"/>
-        <br><br>
-        <b>Certificate Name 2</b>
-        <br>
-        <sub>Issued by • 2026</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="CERTIFICATE_3_IMAGE_URL" width="420" alt="Certificate 3"/>
-        <br><br>
-        <b>Certificate Name 3</b>
-        <br>
-        <sub>Issued by • 2026</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="CERTIFICATE_4_IMAGE_URL" width="420" alt="Certificate 4"/>
-        <br><br>
-        <b>Certificate Name 4</b>
-        <br>
-        <sub>Issued by • 2026</sub>
-      </td>
-    </tr>
-    
-  </table>
+<div align="left">
+
+<a href="./certificates/certificate-1.pdf">
+  <h4>🏅 Certificate Name 1</h4>
+</a>
+
+<a href="./certificates/certificate-2.pdf">
+  <h4>🏅 Certificate Name 2</h4>
+</a>
+
+<a href="./certificates/certificate-3.pdf">
+  <h4>🏅 Certificate Name 3</h4>
+</a>
+
+<a href="./certificates/certificate-4.pdf">
+  <h4>🏅 Certificate Name 4</h4>
+</a>
 
 </div>
+
 
 
 <div align="center">
@@ -143,7 +125,6 @@ Learning:
 ### 🚀 Always Learning • Always Building • Always Growing
 
 </div>
-
 
 
 ---
