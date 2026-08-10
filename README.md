@@ -108,7 +108,6 @@ Learning:
         <br>
         <sub>Issued by • 2026</sub>
       </td>
-
       <td align="center" width="50%">
         <img src="CERTIFICATE_2_IMAGE_URL" width="420" alt="Certificate 2"/>
         <br><br>
@@ -117,7 +116,6 @@ Learning:
         <sub>Issued by • 2026</sub>
       </td>
     </tr>
-
     <tr>
       <td align="center" width="50%">
         <img src="CERTIFICATE_3_IMAGE_URL" width="420" alt="Certificate 3"/>
@@ -126,7 +124,6 @@ Learning:
         <br>
         <sub>Issued by • 2026</sub>
       </td>
-
       <td align="center" width="50%">
         <img src="CERTIFICATE_4_IMAGE_URL" width="420" alt="Certificate 4"/>
         <br><br>
@@ -135,11 +132,11 @@ Learning:
         <sub>Issued by • 2026</sub>
       </td>
     </tr>
+    
   </table>
 
 </div>
 
----
 
 <div align="center">
 
