@@ -99,22 +99,22 @@ Learning:
 # 🏆 Achievements
 
 <div align="left">
+  
+<h4>🏅C++ Programming Certificate</h4>
 
-<a href="./certificates/certificate-1.pdf">
-  <h4>🏅 Certificate Name 1</h4>
-</a>
+[**C++ Programming Certificate →**](./certificates/C++_certificate.pdf)
 
-<a href="./certificates/certificate-2.pdf">
-  <h4>🏅 Certificate Name 2</h4>
-</a>
+<h4>🏅JavaScript Certificate</h4>
 
-<a href="./certificates/certificate-3.pdf">
-  <h4>🏅 Certificate Name 3</h4>
-</a>
+[**JavaScript Certificate →**](./certificates/Javascript_certificate.pdf)
 
-<a href="./certificates/certificate-4.pdf">
-  <h4>🏅 Certificate Name 4</h4>
-</a>
+<h4>🏅Python Certificate</h4>
+
+[**Python Certificate →**](./certificates/Python_certificate.pdf)
+
+<h4>🏅Data Analysis Certificate</h4>
+
+[**Data Analysis Certificate →**](./certificates/DataAnalysis_certificate.pdf)
 
 </div>
 
