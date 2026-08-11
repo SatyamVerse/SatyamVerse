@@ -16,19 +16,19 @@
 
 # 🚀 About Me
 
-```yaml
-Name: Satyam
-Location: India 🇮🇳
-Role: Full Stack Developer
-Focus:
-  - Web Development
-  - Backend Development
-  - Open Source
-Learning:
-  - System Design
-  - Cloud
-  - DevOps
-```
+I'm **Satyam**, an **Artificial Intelligence & Machine Learning student** who enjoys coding, problem-solving, and building real-world projects. I like exploring new technologies, experimenting with ideas, and turning what I learn into practical applications.
+
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 💻 Interested in **Coding, Problem Solving & Software Development**
+* 🧠 Learning **Machine Learning, Deep Learning & Data Analysis**
+* 🌐 Exploring **Full Stack & Backend Development**
+* 🐍 Working with **Python and Modern Development Tools**
+* 🚀 Building **AI-powered and Real-World Projects**
+* 🌱 Learning new technologies and improving my development skills
+* 🐙 Sharing my projects and learning journey on **GitHub**
+
+> **"Learn. Build. Experiment. Grow."**
+
 
 ---
 
