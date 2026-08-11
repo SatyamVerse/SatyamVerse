@@ -168,6 +168,7 @@ I'm **Satyam**, an **Artificial Intelligence & Machine Learning student** who en
 </a>
 
 </div>
+<br><br>
 
 ---
 
@@ -175,7 +176,7 @@ I'm **Satyam**, an **Artificial Intelligence & Machine Learning student** who en
 
 ### 💡 Favorite Quote
 
-> *"First, solve the problem. Then, write the code."*
+ *"First, solve the problem. Then, write the code."*
 
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
 
